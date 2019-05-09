@@ -1,0 +1,23 @@
+.hiw-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 5px;
+}
+
+.hiw-card {
+    width: 200px;
+    height: 250px;
+    text-align: center;
+    box-shadow: 0 0 5px rgba(0,0,0,0.2);
+    padding: 10px;
+}
+
+.hiw-card img {
+    width: 70%;
+    object-fit: cover;
+}
+
+.hiw-card p {
+    color: grey
+}

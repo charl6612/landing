@@ -1,0 +1,9 @@
+/*button medium*/
+.button{
+    border: 1px solid #52DD8;
+    padding: 15px 25px;
+    border-radius : 50px;
+    opacity: 1;
+    background-color:#52DD89;
+    color: white;
+}
